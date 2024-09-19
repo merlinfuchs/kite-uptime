@@ -6,7 +6,7 @@ sites:
   - name: Kite Website
     url: https://kite.onl/
   - name: Kite API
-    url: https://api.kite.onl/health
+    url: https://api.kite.onl/v1/health
 
 status-website:
   cname: status.kite.onl
