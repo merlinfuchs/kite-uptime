@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.kite.onl.ico",
     "slug": "kite-api",
     "status": "up",
-    "uptime": "3.60%",
-    "uptimeDay": "3.60%",
-    "uptimeWeek": "3.60%",
-    "uptimeMonth": "3.60%",
-    "uptimeYear": "3.60%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 559,
     "timeDay": 559,
     "timeWeek": 559,
     "timeMonth": 559,
     "timeYear": 559,
-    "dailyMinutesDown": {
-      "2024-09-19": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
