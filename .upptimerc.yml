@@ -7,8 +7,6 @@ sites:
     url: https://kite.onl/
   - name: Kite API
     url: https://api.kite.onl/v1/health
-  - name: Test Failure
-    url: https://api.kite.onl
 
 status-website:
   cname: status.kite.onl
