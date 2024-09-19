@@ -5,6 +5,8 @@ repo: kite-uptime # The name of this repository
 sites:
   - name: Kite Website
     url: https://kite.onl/
+  - name: Kite Docs
+    url: https://docs.kite.onl/
   - name: Kite API
     url: https://api.kite.onl/v1/health
 
