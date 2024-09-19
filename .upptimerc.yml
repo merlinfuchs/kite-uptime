@@ -12,6 +12,8 @@ status-website:
   cname: status.kite.onl
   # baseUrl: /kite-uptime
   logoUrl: https://kite.onl/logo.svg
+  favicon: https://kite.onl/logo.png
+  faviconSvg: https://kite.onl/logo.svg
   name: Kite Status
   introTitle: "**Kite** is the easiest way to create your own Discord Bot without writing a single line of code."
   introMessage: This page shows the status and uptime of Kite and the related services. If you are looking for the Kite website click [here](https://kite.onl)!
