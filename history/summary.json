@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 331,
-    "timeDay": 331,
-    "timeWeek": 331,
-    "timeMonth": 331,
-    "timeYear": 331,
+    "time": 325,
+    "timeDay": 325,
+    "timeWeek": 325,
+    "timeMonth": 325,
+    "timeYear": 325,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 611,
-    "timeDay": 611,
-    "timeWeek": 611,
-    "timeMonth": 611,
-    "timeYear": 611,
+    "time": 614,
+    "timeDay": 614,
+    "timeWeek": 614,
+    "timeMonth": 614,
+    "timeYear": 614,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Test Failure",
-    "url": "https://api.kite.onl",
-    "icon": "https://icons.duckduckgo.com/ip3/api.kite.onl.ico",
-    "slug": "test-failure",
-    "status": "down",
-    "uptime": "8.39%",
-    "uptimeDay": "8.39%",
-    "uptimeWeek": "8.39%",
-    "uptimeMonth": "8.39%",
-    "uptimeYear": "8.39%",
-    "time": 168,
-    "timeDay": 168,
-    "timeWeek": 168,
-    "timeMonth": 168,
-    "timeYear": 168,
-    "dailyMinutesDown": {
-      "2024-09-19": 0
-    }
   }
 ]
