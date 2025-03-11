@@ -4,19 +4,19 @@
     "url": "https://kite.onl/",
     "icon": "https://icons.duckduckgo.com/ip3/kite.onl.ico",
     "slug": "kite-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 286,
-    "timeDay": 115,
-    "timeWeek": 274,
-    "timeMonth": 300,
+    "timeDay": 184,
+    "timeWeek": 271,
+    "timeMonth": 299,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2025-03-11": 0
+      "2025-03-11": 7
     }
   },
   {
