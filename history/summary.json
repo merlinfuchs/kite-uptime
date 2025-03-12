@@ -6,18 +6,16 @@
     "slug": "kite-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 286,
-    "timeDay": 184,
-    "timeWeek": 271,
-    "timeMonth": 299,
+    "timeDay": 278,
+    "timeWeek": 262,
+    "timeMonth": 304,
     "timeYear": 286,
-    "dailyMinutesDown": {
-      "2025-03-11": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Kite Docs",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 319,
-    "timeDay": 162,
-    "timeWeek": 254,
-    "timeMonth": 274,
+    "timeDay": 376,
+    "timeWeek": 241,
+    "timeMonth": 275,
     "timeYear": 319,
     "dailyMinutesDown": {}
   },
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 665,
-    "timeDay": 519,
-    "timeWeek": 493,
-    "timeMonth": 525,
+    "timeDay": 670,
+    "timeWeek": 487,
+    "timeMonth": 511,
     "timeYear": 665,
     "dailyMinutesDown": {}
   }
