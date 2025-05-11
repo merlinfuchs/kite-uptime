@@ -1,7 +1,7 @@
 url: https://api.kite.onl/v1/health
-status: down
-code: 502
-responseTime: 668
-lastUpdated: 2025-05-11T05:55:00.963Z
+status: up
+code: 200
+responseTime: 673
+lastUpdated: 2025-05-11T06:05:30.518Z
 startTime: 2024-09-19T12:41:18.802Z
 generator: Upptime <https://github.com/upptime/upptime>
