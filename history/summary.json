@@ -40,19 +40,19 @@
     "url": "https://api.kite.onl/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.kite.onl.ico",
     "slug": "kite-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 630,
-    "timeDay": 399,
-    "timeWeek": 510,
-    "timeMonth": 534,
-    "timeYear": 630,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "93.84%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.98%",
+    "time": 629,
+    "timeDay": 413,
+    "timeWeek": 506,
+    "timeMonth": 532,
+    "timeYear": 629,
     "dailyMinutesDown": {
-      "2025-07-08": 0
+      "2025-07-08": 89
     }
   }
 ]
