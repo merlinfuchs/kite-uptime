@@ -4,19 +4,19 @@
     "url": "https://kite.onl/",
     "icon": "https://icons.duckduckgo.com/ip3/kite.onl.ico",
     "slug": "kite-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 73,
-    "timeWeek": 263,
-    "timeMonth": 235,
-    "timeYear": 280,
+    "time": 279,
+    "timeDay": 143,
+    "timeWeek": 257,
+    "timeMonth": 234,
+    "timeYear": 279,
     "dailyMinutesDown": {
-      "2025-07-19": 0
+      "2025-07-19": 16
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://docs.kite.onl/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.kite.onl.ico",
     "slug": "kite-docs",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 309,
-    "timeDay": 123,
-    "timeWeek": 229,
-    "timeMonth": 240,
+    "timeDay": 155,
+    "timeWeek": 224,
+    "timeMonth": 239,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2025-07-19": 0
+      "2025-07-19": 16
     }
   },
   {
