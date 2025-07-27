@@ -4,7 +4,7 @@
     "url": "https://kite.onl/",
     "icon": "https://icons.duckduckgo.com/ip3/kite.onl.ico",
     "slug": "kite-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 261,
     "timeYear": 279,
     "dailyMinutesDown": {
+      "2025-07-27": 0,
       "2025-07-19": 16
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://docs.kite.onl/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.kite.onl.ico",
     "slug": "kite-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +37,7 @@
     "timeMonth": 269,
     "timeYear": 309,
     "dailyMinutesDown": {
+      "2025-07-27": 0,
       "2025-07-19": 16
     }
   },
@@ -47,12 +49,12 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
     "time": 628,
     "timeDay": 516,
-    "timeWeek": 590,
+    "timeWeek": 599,
     "timeMonth": 571,
     "timeYear": 628,
     "dailyMinutesDown": {
