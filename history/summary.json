@@ -48,7 +48,7 @@
     "slug": "kite-api",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
@@ -58,6 +58,7 @@
     "timeMonth": 583,
     "timeYear": 628,
     "dailyMinutesDown": {
+      "2025-07-29": 0,
       "2025-07-20": 19,
       "2025-07-08": 89
     }
