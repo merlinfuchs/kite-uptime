@@ -6,9 +6,9 @@
     "slug": "kite-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 280,
     "timeDay": 344,
@@ -16,7 +16,6 @@
     "timeMonth": 272,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2025-07-31": 11,
       "2025-07-27": 16,
       "2025-07-19": 16
     }
@@ -28,9 +27,9 @@
     "slug": "kite-docs",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 308,
     "timeDay": 262,
@@ -38,7 +37,6 @@
     "timeMonth": 270,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2025-07-31": 11,
       "2025-07-27": 16,
       "2025-07-19": 16
     }
