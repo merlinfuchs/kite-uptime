@@ -4,11 +4,11 @@
     "url": "https://kite.onl/",
     "icon": "https://icons.duckduckgo.com/ip3/kite.onl.ico",
     "slug": "kite-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 293,
     "timeDay": 355,
@@ -16,7 +16,7 @@
     "timeMonth": 419,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2025-08-26": 11,
+      "2025-08-26": 0,
       "2025-07-27": 16,
       "2025-07-19": 16
     }
@@ -26,11 +26,11 @@
     "url": "https://docs.kite.onl/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.kite.onl.ico",
     "slug": "kite-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 305,
     "timeDay": 314,
@@ -38,7 +38,7 @@
     "timeMonth": 268,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2025-08-26": 10,
+      "2025-08-26": 0,
       "2025-07-27": 16,
       "2025-07-19": 16
     }
